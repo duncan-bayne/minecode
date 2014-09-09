@@ -33,3 +33,12 @@ Ideas
   - people make minigames via mods. 
   - people upload mods and we spin up worlds for them to join.
 
+Challenges
+====
+- Making it simple for people to set up and use on all platforms (Windows, Mac, Linux)
+  - Writing step by step instrcutions for each platform and testing it
+  - Make it about the code and about them, not about set up and platforms, that should be invisible
+- Audience: Will be at different levels so having enough content for more experienced people to get through but simple enough that anyone can eventually get through all the steps 
+  - Lots of feedback is good here, so if they don't go through it as fast they still get rewards/feel like they've achieved something
+  - A good way is to start with short closed problems that have one solution then move up until you get to more open ended challenges that use the specific skills that you learnt along the way
+- Sticking to our goals above i.e. not getting to side tracked by shiny things, keep it simple like Ruby Warrior
